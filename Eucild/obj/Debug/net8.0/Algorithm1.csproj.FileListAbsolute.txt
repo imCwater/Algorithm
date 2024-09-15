@@ -1,0 +1,14 @@
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\bin\Debug\net8.0\Algorithm1.exe
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\bin\Debug\net8.0\Algorithm1.deps.json
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\bin\Debug\net8.0\Algorithm1.runtimeconfig.json
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\bin\Debug\net8.0\Algorithm1.dll
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\bin\Debug\net8.0\Algorithm1.pdb
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\obj\Debug\net8.0\Algorithm1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\obj\Debug\net8.0\Algorithm1.AssemblyInfoInputs.cache
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\obj\Debug\net8.0\Algorithm1.AssemblyInfo.cs
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\obj\Debug\net8.0\Algorithm1.csproj.CoreCompileInputs.cache
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\obj\Debug\net8.0\Algorithm1.dll
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\obj\Debug\net8.0\refint\Algorithm1.dll
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\obj\Debug\net8.0\Algorithm1.pdb
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\obj\Debug\net8.0\Algorithm1.genruntimeconfig.cache
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\obj\Debug\net8.0\ref\Algorithm1.dll

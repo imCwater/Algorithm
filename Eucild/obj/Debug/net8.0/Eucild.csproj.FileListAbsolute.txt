@@ -1,0 +1,4 @@
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\obj\Debug\net8.0\Eucild.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\obj\Debug\net8.0\Eucild.AssemblyInfoInputs.cache
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\obj\Debug\net8.0\Eucild.AssemblyInfo.cs
+C:\Users\nagi0\source\repos\Algorithm1\Algorithm1\obj\Debug\net8.0\Eucild.csproj.CoreCompileInputs.cache
